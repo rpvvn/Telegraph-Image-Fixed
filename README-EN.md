@@ -1,3 +1,7 @@
+# Important Note
+This project is a patched build of the original repository by [cf-pages](https://github.com/cf-pages/Telegraph-Image). It fixes the errors that arise during download and deployment. A huge thanks to cf-pages for their open-source work!
+
+
 # Telegraph-Image
 
 Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and Telegraph.
